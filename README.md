@@ -2,7 +2,7 @@
 <h3>Name:  R ABINAV KUMAR </h3>
 <h3>Register Number: 212224210001 </h3>
 <H3>Aim:</H3>
- Implementation of Classical Algorithm
+        Implementation of Classical Algorithm
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
